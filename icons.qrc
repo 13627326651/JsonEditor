@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="copy.png">icons/copy.png</file>
+        <file alias="add.png">icons/add.png</file>
+        <file alias="back.png">icons/back.png</file>
+        <file alias="delete.png">icons/delete.png</file>
+        <file alias="open.png">icons/open.png</file>
+        <file alias="paste.png">icons/paste.png</file>
+        <file alias="refresh.png">icons/refresh.png</file>
+        <file alias="remove.png">icons/remove.png</file>
+        <file alias="save.png">icons/save.png</file>
+        <file alias="search.png">icons/search.png</file>
+    </qresource>
+</RCC>
