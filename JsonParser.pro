@@ -27,12 +27,20 @@ SOURCES += \
         main.cpp \
         mainwindow.cpp \
     searchdialog.cpp \
-    editdialog.cpp
+    editdialog.cpp \
+    handler.cpp \
+    jsonhandler.cpp \
+    xmlhandler.cpp \
+    tinyxml2.cpp
 
 HEADERS += \
         mainwindow.h \
     searchdialog.h \
-    editdialog.h
+    editdialog.h \
+    handler.h \
+    jsonhandler.h \
+    xmlhandler.h \
+    tinyxml2.h
 
 FORMS += \
         mainwindow.ui \
